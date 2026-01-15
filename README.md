@@ -9,7 +9,7 @@ A dummy repository for educational purposes
 Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
-* The fantastic Ada Lovelace, adalovelace
+* Ada Lovelace, adalovelace
 * Marie Curie, mariecurie
 * Jane Goodall, janegoodall
 
@@ -24,8 +24,8 @@ Creating hyperlinks is also really easy. Here's [one link to a pretty random web
 Markdown also allows to easily write `fixed width text`, using _backticks_: \`code\`. This is useful for writing formatting pieces of code. But it's also possible to write code blocks by enclosing the code with 3 backticks (\`\`\`). For example, this illustrates the basic workflow with `git`:
 
 ```
-git clone https://github.com/alexhernandezgarcia/ift-3710-6759-h24.git
-cd ift-3710-6759-h24/
+git clone https://github.com/alexhernandezgarcia/ift-3710-6759-h26.git
+cd ift-3710-6759-h26/
 git checkout -b playground-branch
 touch new-file
 echo "banana" > new-file
